@@ -2,7 +2,7 @@
 The use of PokeMyst in a server requires the collection of some specific user data . The Data collected includes, but is not limited to Discord user ID values. Use of PokeMyst is considered an agreement to the terms of this Policy.
 
 ## Storage of Data
-Data is stored on a private server with an SQLite database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
+Data is stored on a private server with an SQLite database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application. Data deletion can be requested by DMing @iVyriss.
 
 ## User Rights
 At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through our support server  (https://discord.gg/ZQGn6WF8). You have the right to request the removal of relevant Data.
